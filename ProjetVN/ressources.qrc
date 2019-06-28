@@ -1,0 +1,65 @@
+<RCC>
+    <qresource prefix="/new/IMAGES">
+        <file>1.jpg</file>
+        <file>2.jpg</file>
+        <file>3.jpg</file>
+        <file>Accueil.jpg</file>
+        <file>4.jpg</file>
+        <file>5.jpg</file>
+        <file>6.jpg</file>
+        <file>8.jpg</file>
+        <file>7.jpg</file>
+    </qresource>
+    <qresource prefix="/new/TEXTES">
+        <file>3.txt</file>
+        <file>2.txt</file>
+        <file>1.txt</file>
+        <file>4.txt</file>
+        <file>5.txt</file>
+        <file>6.txt</file>
+        <file>7.txt</file>
+        <file>200.txt</file>
+        <file>100.txt</file>
+        <file>101.txt</file>
+        <file>103.txt</file>
+        <file>102.txt</file>
+        <file>104.txt</file>
+        <file>105.txt</file>
+        <file>108.txt</file>
+        <file>107.txt</file>
+        <file>106.txt</file>
+        <file>109.txt</file>
+        <file>111.txt</file>
+        <file>110.txt</file>
+        <file>400.txt</file>
+        <file>300.txt</file>
+        <file>403.txt</file>
+        <file>402.txt</file>
+        <file>401.txt</file>
+        <file>305.txt</file>
+        <file>304.txt</file>
+        <file>303.txt</file>
+        <file>302.txt</file>
+        <file>301.txt</file>
+        <file>404.txt</file>
+        <file>312.txt</file>
+        <file>201.txt</file>
+        <file>311.txt</file>
+        <file>310.txt</file>
+        <file>309.txt</file>
+        <file>308.txt</file>
+        <file>307.txt</file>
+        <file>306.txt</file>
+    </qresource>
+    <qresource prefix="/new/PERSONNAGES">
+        <file>Waifu2.png</file>
+    </qresource>
+    <qresource prefix="/new/SONS">
+        <file>safeZoneBar.mp3</file>
+        <file>RueClassique.mp3</file>
+        <file>clocheEcole.mp3</file>
+        <file>musique-dhorreur-et-de-suspens.mp3</file>
+        <file>LePortail.mp3</file>
+        <file>boing.mp3</file>
+    </qresource>
+</RCC>
